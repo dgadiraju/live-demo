@@ -5,3 +5,4 @@
 * Create **virtual environment** for the project using Python 3.7 - `python3.7 -m venv live-demo-env`. This will create sub golder by name **live-demo-env** in the directory where you are in.
 * Activate **python 3.7 virtual environment** - `source live-demo-env/bin/activate`
 * Install the dependencies - `pip install -r requirements.txt`
+* Validate application by running - `python LiveDemo.py`
